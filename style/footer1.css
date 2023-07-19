@@ -1,0 +1,73 @@
+.what
+{
+	text-shadow:2px 2px yellow;
+}
+.bg-danger
+{
+	font-family: 'Kaushan Script', cursive;
+	text-shadow:2px 2px;
+	color:white;
+	background-image:linear-gradient(rgb(156, 17, 22),rgb(255, 77, 45));
+
+}
+.rounded-pill
+{
+	align-items:center;
+	margin-left:24px;  
+}
+#fluid
+{ 
+
+	background-image:linear-gradient(rgb(255, 77, 45),rgb(156, 17, 22));
+}
+.be
+{
+	text-shadow: 3px 3px black;
+	text-decoration:none;
+
+}
+.have
+{
+	text-shadow:1px 1px red;
+    font-size:30px; 
+    text-decoration:none;
+    color:black;  
+}
+#bot
+{
+	box-shadow : 4px 4px green;
+}
+.iconsize
+{
+	 font-size:20px;
+	 background-color:bisque;
+}
+.card
+{
+    width:18rem; 
+    box-shadow:3px 3px 3px 3px red;
+}
+.btn
+{
+    background-image:linear-gradient(rgb(95,40,112),rgb(255, 77, 45));
+}   
+.footercl
+{
+  color:white;
+  text-decoration:none;
+  font-size:30px;
+}
+:hover.footercl
+{
+    color:#09f2a8;
+}
+.be
+{
+	text-shadow: 3px 3px black;    
+}
+#footerchange
+{
+	text-align:center;
+	font-size:50px;
+	background-image:linear-gradient(rgb(255, 77, 45),rgb(156, 17, 22));
+}

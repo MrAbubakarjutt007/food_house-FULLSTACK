@@ -1,0 +1,72 @@
+.card
+{
+    width:18rem;
+    box-shadow:3px 3px 3px 3px red;
+}
+#color
+{
+    width:18rem;
+    box-shadow:3px 3px 3px 3px lightpink;
+
+}
+#but
+{
+    background-image:linear-gradient(rgb(50, 76,6),rgb(255, 77, 45));
+}
+#fluid
+{ 
+
+	background-image:linear-gradient(rgb(255, 77, 45),rgb(156, 17, 22));
+}
+#bot
+{
+	box-shadow : 4px 4px green;
+}
+.iconsize
+{
+	 font-size:20px;
+	 background-color: bisque;
+}
+.fixeddata
+{
+ width:100%;
+ margin-top:2px;
+   
+}
+@media only screen and(min-width:200px)and(max-width:600px)
+{
+    .fixeddata
+    {
+        width:100%;
+        margin-top:2px;
+    }
+
+}
+@media only screen and(min-width:600px)and(max-width:1000px)
+{
+    .fixeddata
+    {
+        width:100%;
+        margin-top:2px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

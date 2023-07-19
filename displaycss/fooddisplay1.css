@@ -1,0 +1,51 @@
+body
+{   
+    background-image:linear-gradient(rgb(255,  77, 45),rgb(156, 17, 22));
+    background-repeat:no-repeat;
+}
+.tableimg
+{
+    border:1px solid white;
+    border-width:10px; 
+    padding:30px;
+    margin-left:50px;
+    text-align:center;
+    width:93%;
+    background-image:url("../displaytableimg.jpg");
+    position:relative;
+    height:150px;
+    color:rgb(32, 9, 10);
+    text-shadow:2px 2px red; 
+}
+.what
+{
+    border:1px solid white;
+    border-width:10px; 
+    padding:20px;
+    margin-left:50px;
+    color:aliceblue;
+    text-align:center; 
+}
+.why
+{
+    color:aliceblue;
+    border:1px solid white;
+    border-width:10px; 
+    padding:20px;
+    margin-top:50px;
+    text-align:center;
+    background-image:linear-gradient(rgb(32, 9, 10),rgb(155, 41, 21));
+}
+.link
+{
+    color:aliceblue;
+    text-decoration:none;
+    border:1px solid black;
+    padding:10px;
+    background-image:linear-gradient(rgb(32, 9, 10),rgb(155, 41, 21));   
+}
+.link:hover
+{
+    font-size:20px;
+    color: aliceblue;
+}

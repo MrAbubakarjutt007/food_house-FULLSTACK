@@ -1,0 +1,106 @@
+#what
+{
+	text-shadow:2px 2px yellow;
+	font-family: 'Kaushan Script', cursive;
+}
+#goith3
+{
+	text-shadow:2px 2px #ff7f50;
+	font-family: 'Kaushan Script', cursive;
+}
+#styling
+{
+	font-family: 'Kaushan Script', cursive;
+	text-shadow:2px 2px;
+	color:white;
+	background-image:linear-gradient(rgb(156, 17, 22),rgb(255, 77, 45));
+
+}
+#styling:hover
+{
+	font-family: 'Kaushan Script', cursive;
+	text-shadow:2px 2px;
+	color:white;
+	background-image:linear-gradient(rgb(32, 9, 10),rgb(155, 41, 21));
+}
+.bolt
+{
+	color:black;
+	text-shadow:2px 2px red;
+	font-size:50px;
+}
+#foodimage 
+{
+	align-items:center;
+	margin-left:22px;
+	box-shadow:2px 3px 3px 2px #ccc;
+	border-radius:50%;  
+}
+.details
+{
+	
+	text-align:center; 
+	font-family: 'Kaushan Script',cursive;
+
+}
+#fluid
+{ 
+
+	background-image:linear-gradient(rgb(255, 77, 45),rgb(156, 17, 22));
+}
+.be
+{
+	
+	text-shadow: 3px 3px black;
+	text-decoration:none;
+
+}
+.have
+{
+	text-shadow:1px 1px red;
+    font-size:30px; 
+    text-decoration:none;
+    color:black;  
+}
+.have:hover
+{
+    color: coral;	
+}
+
+#bot
+{
+	box-shadow : 4px 4px green;
+}
+.iconsize
+{
+	 font-size:20px;
+	 background-color:bisque;
+}
+.card
+{
+    width:18rem; 
+    box-shadow:3px 3px 3px 3px red;
+}
+.btn
+{
+    background-image:linear-gradient(rgb(95,40,112),rgb(255, 77, 45));
+}
+#dimand
+{
+	color:aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

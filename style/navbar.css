@@ -1,0 +1,28 @@
+.navbar
+{
+    background-image:linear-gradient(rgb(81,6,6),rgb(255, 77, 45));
+    z-index:1;
+}
+#nevb
+{
+    color:aliceblue;
+    margin-left:5px;
+}
+#nevbar
+{
+    color:aliceblue;
+    margin-left:5px;
+    background-image:linear-gradient(rgb(156, 17, 22),rgb(255, 77, 45));
+    box-shadow: 3px 3px;
+}
+.navbar:hover
+{
+    background-image:linear-gradient(rgb(32, 9, 10),rgb(155, 41, 21));    
+}
+#heading
+{
+    color:aliceblue;
+    margin-left:5px;
+    font-family: 'Kaushan Script', cursive;
+}
+
